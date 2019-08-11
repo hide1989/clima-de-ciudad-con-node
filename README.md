@@ -5,3 +5,9 @@ recuerda instalar las dependencias
 ```
 npm install
 ```
+
+## Ejemplo
+
+```
+node app.js -d "medelli, colombia"
+```
